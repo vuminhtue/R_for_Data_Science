@@ -4,6 +4,7 @@ author: Tue Vu - CyberInfrastructure & Technology Integration (CITI) - CCIT
 date:   12/03/2018
 
 1. Input to R
+
 ========================================================
 In R, the **>** is command prompt
 

@@ -244,7 +244,7 @@ data(iris)
 dim(iris)
 head(iris)
 ```
-![setosa](img/setosa.jpg) ![versocolor](img/versicolor.jpg) ![virginica](img/virginica.jpg)
+
 
 ```r
 names(iris)
